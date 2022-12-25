@@ -18,5 +18,5 @@ git clone https://github.com/MAHADI-143/FB-BOT.git
 
 cd FB-BOT
 
-python3 FB-BOT.py
+python3 RUN.py
 ```
