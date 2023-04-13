@@ -4,7 +4,7 @@ os.system('clear')
 os.system('git pull')
 bit = platform.architecture()[0]
 if bit=='64bit':
-    import SHARE
+    import SH64
 elif bit=='32bit':
     import SH32
 else:
